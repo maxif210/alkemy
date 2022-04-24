@@ -1,0 +1,30 @@
+.main-header{
+    display: flex;
+    background-color: dodgerblue;
+    position: fixed;
+}
+
+.logo-container{
+    padding: 15px;
+
+}
+
+.logo-container img{
+   border-radius: 50%;
+}
+
+.main-navigation {
+    display: flex;
+
+}
+
+.main-navigation:hover {
+    font-weight: bold;
+}
+.main-navigation ul {
+    text-decoration: none;
+}
+.main-navigation li {
+list-style: none;
+
+}
